@@ -72,5 +72,6 @@ public class Main {
         // Visualización
         System.out.println(" === Estructura Jerarquica del Arbol General === ");
         raiz.imprimirArbol("");
+        System.out.println("\n========             <(*-*)>            ========");
     }
 }
